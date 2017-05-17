@@ -1,2 +1,2 @@
-# Progrmacion
-Los programas que mandaba Palencij
+# Programacion
+Algunos programas completos e incompletos hechos para clase de programación.
