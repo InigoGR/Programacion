@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=vx\ vy\ ac
+comment0.target=Satelite(double,\ double,\ double)
+comment0.text=\r\n\ Constructor\ de\ la\ clase\ Satelite\ a\ partir\ de\ la\ velocidad\ en\ el\ eje\ x\ e\ y,\ y\ la\ \r\n\ aceleraci\u00F3n\ centr\u00EDpeta\ en\ unidades\ del\ S.I.\ Los\ objetos\ Satelite\ tienen\ por\ defecto\ \r\n\ altura\ 15000km\ y\ posici\u00F3n\ 0\ en\ el\ eje\ x.\r\n
+comment1.params=
+comment1.target=double\ posX()
+comment1.text=\r\n\ Metodo\ que\ retorna\ la\ posicion\ en\ el\ eje\ x\ del\ satelite\ como\ double\ en\ unidades\ del\ S.I\r\n
+comment2.params=
+comment2.target=double\ posY()
+comment2.text=\r\n\ Metodo\ que\ retorna\ la\ posicion\ en\ el\ eje\ y\ del\ satelite\ como\ double\ en\ unidades\ del\ S.I\r\n
+comment3.params=
+comment3.target=void\ enciende()
+comment3.text=\r\n\ Metodo\ que\ enciende\ el\ motor\ del\ satelite\r\n
+comment4.params=
+comment4.target=void\ apaga()
+comment4.text=\r\n\ Metodo\ que\ apaga\ el\ motor\ del\ satelite\r\n
+comment5.params=t
+comment5.target=void\ avanzaTiempo(double)
+comment5.text=\r\n\ Metodo\ que\ calcula\ la\ posicion\ y\ velocidad\ del\ satelite\ en\ unidades\ S.I\ transcurrido\ el\ \r\n\ tiempo\ en\ segundos\ introducido\ por\ teclado.\ El\ metodo\ tiene\ en\ cuenta\ si\ el\ motor\ del\r\n\ satelite\ esta\ encendido\ o\ apagado\r\n
+numComments=6

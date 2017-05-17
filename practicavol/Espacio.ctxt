@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Espacio()
+comment0.text=\r\n\ Constructor\ que\ crea\ la\ ventana\ y\ pinta\ la\ tierra\r\n
+comment1.params=x\ y\ numSatelite
+comment1.target=void\ pintaSatelite(double,\ double,\ int)
+comment1.text=\r\n\ Pinta\ el\ satelite\ cuyo\ color\ se\ indica\ (ROJO\ o\ AZUL)\ en\ la\ ventana,\r\n\ con\ las\ coordenadas\ indicadas\ por\ x\ e\ y,\ en\ metros\r\n
+comment2.params=
+comment2.target=void\ borra()
+comment2.text=\r\n\ Borra\ las\ trayectorias\ de\ los\ satelites\ del\ dibujo\r\n
+numComments=3
