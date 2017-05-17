@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=posX\ posY\ velX\ velY
+comment0.target=Piedra(double,\ double,\ double,\ double)
+comment0.text=\r\n\ Constructor\ que\ pone\ las\ condiciones\ iniciales,\ copi\u00E1ndolas\ de\ los\ argumentos.\ Unidades\:\ m\ y\ m/s\r\n
+comment1.params=
+comment1.target=double\ getPosX()
+comment1.text=\r\n\ Retorna\ la\ posici\u00F3n\ X\ (m)\r\n
+comment2.params=
+comment2.target=double\ getPosY()
+comment2.text=\r\n\ Retorna\ la\ posici\u00F3n\ Y\ (m)\r\n
+comment3.params=t
+comment3.target=void\ avanzaTiempo(double)
+comment3.text=\r\n\ Avanza\ el\ tiempo\ en\ la\ cantidad\ t(s),\ actualiza\ las\ posiciones\ y\ las\ velocidades\r\n
+numComments=4

@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=nombre\ posX\ posY\ velX\ velY
+comment0.target=void\ main(java.lang.String,\ double,\ double,\ double,\ double)
+numComments=1
