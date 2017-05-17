@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=y0\ yMax\ velMax\ m\ v\ h0\ condiciones
+comment0.target=RhizopusOryzae(double,\ double,\ double,\ double,\ double,\ double,\ java.lang.String)
+comment1.params=t
+comment1.target=double\ ajuste(double)
+comment2.params=t
+comment2.target=double\ diametro(double)
+comment3.params=
+comment3.target=java.lang.String\ getCondiciones()
+numComments=4
