@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=x1\ y1\ nombreFichero
+comment0.target=Imagen(int,\ int,\ java.lang.String)
+comment0.text=\n\ Constructor\ al\ que\ se\ le\ pasan\ la\ posicion\ de\ la\ esquina\ \n\ superior\ izquierda\ (en\ pixels)\ y\ el\ nombre\ del\ fichero\ \n\ que\ contiene\ la\ imagen\ (usar\ formato\ jpg\ o\ png)\n
+comment1.params=dib
+comment1.target=void\ pinta(fundamentos.Dibujo)
+comment1.text=\n\ Pinta\ la\ imagen\n
+comment2.params=deltaX\ deltaY
+comment2.target=void\ mueve(int,\ int)
+comment2.text=\n\ Mueve\ la\ imagen\ en\ la\ cantidad\ relativa\ indicada\ en\ pixels\n
+numComments=3

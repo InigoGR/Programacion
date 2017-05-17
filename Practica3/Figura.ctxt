@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=dib
+comment0.target=void\ pinta(fundamentos.Dibujo)
+comment0.text=\n\ Pinta\ la\ figura\n
+comment1.params=deltaX\ deltaY
+comment1.target=void\ mueve(int,\ int)
+comment1.text=\n\ Mueve\ la\ figura\ en\ la\ cantidad\ indicada\ en\ Pixels\n
+comment2.params=milis
+comment2.target=void\ espera(int)
+comment2.text=\n\ \ Espera\ un\ tiempo\ especificado\ en\ milisegundos\n
+numComments=3

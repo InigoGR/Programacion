@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x1\ y1
+comment0.target=AvionPapel(int,\ int)
+comment0.text=\r\n\ Metodo\ constructor\ de\ objetos\ avion\ de\ papel\ en\ la\ posici\u00F3n\ especificada\ en\ pixeles\ tomando\r\n\ la\ punta\ del\ avion\ como\ referencia\r\n
+comment1.params=x\ y
+comment1.target=void\ mueve(int,\ int)
+comment1.text=\r\n\ Metodo\ que\ mueve\ un\ objeto\ avion\ de\ papel\ la\ cantidad\ de\ pixeles\ especificada\r\n
+numComments=2
